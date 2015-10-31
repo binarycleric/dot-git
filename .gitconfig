@@ -1,0 +1,16 @@
+[user]
+  name = Jon Daniel
+  email = binarycleric@gmail.com
+[color]
+  ui = auto
+  branch = auto
+  diff = auto
+  status = auto
+[pull]
+  rebase = true
+[web]
+  browser = open
+[push]
+  default = current 
+[core]
+  excludesfile = /Users/jon/.gitignore
